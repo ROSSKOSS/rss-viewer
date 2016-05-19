@@ -1,0 +1,9 @@
+C:\Projs\RSSClient\RSSClient\bin\Debug\RSSClient.exe.config
+C:\Projs\RSSClient\RSSClient\bin\Debug\RSSClient.exe
+C:\Projs\RSSClient\RSSClient\bin\Debug\RSSClient.pdb
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.csprojResolveAssemblyReference.cache
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.Form1.resources
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.Properties.Resources.resources
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.csproj.GenerateResource.Cache
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.exe
+C:\Projs\RSSClient\RSSClient\obj\Debug\RSSClient.pdb

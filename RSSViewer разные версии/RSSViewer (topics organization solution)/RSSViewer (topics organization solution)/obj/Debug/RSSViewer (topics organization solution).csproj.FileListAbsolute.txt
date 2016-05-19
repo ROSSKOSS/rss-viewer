@@ -1,0 +1,9 @@
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\bin\Debug\RSSViewer (topics organization solution).exe.config
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\bin\Debug\RSSViewer (topics organization solution).exe
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\bin\Debug\RSSViewer (topics organization solution).pdb
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer (topics organization solution).csprojResolveAssemblyReference.cache
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer__topics_organization_solution_.Form1.resources
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer__topics_organization_solution_.Properties.Resources.resources
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer (topics organization solution).csproj.GenerateResource.Cache
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer (topics organization solution).exe
+C:\Projs\RSSViewer (topics organization solution)\RSSViewer (topics organization solution)\obj\Debug\RSSViewer (topics organization solution).pdb

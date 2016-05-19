@@ -1,0 +1,21 @@
+C:\Projs\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.exe.config
+C:\Projs\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.exe
+C:\Projs\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.pdb
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.csprojResolveAssemblyReference.cache
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.Form1.resources
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.Properties.Resources.resources
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.csproj.GenerateResource.Cache
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.exe
+C:\Projs\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.pdb
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.exe.config
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.exe
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.pdb
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.exe
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.pdb
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.csprojResolveAssemblyReference.cache
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.Form1.resources
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.Properties.Resources.resources
+C:\Projs\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.csproj.GenerateResource.Cache
+C:\Projects\RSSViewer разные версии\RSSViewer2\RSSViewer2\bin\Debug\RSSViewer2.exe.config
+C:\Projects\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.exe
+C:\Projects\RSSViewer разные версии\RSSViewer2\RSSViewer2\obj\Debug\RSSViewer2.pdb

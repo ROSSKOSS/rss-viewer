@@ -1,0 +1,9 @@
+C:\Projs\RSS\RSS\bin\Debug\RSS.exe.config
+C:\Projs\RSS\RSS\bin\Debug\RSS.exe
+C:\Projs\RSS\RSS\bin\Debug\RSS.pdb
+C:\Projs\RSS\RSS\obj\Debug\RSS.csprojResolveAssemblyReference.cache
+C:\Projs\RSS\RSS\obj\Debug\RSS.Form1.resources
+C:\Projs\RSS\RSS\obj\Debug\RSS.Properties.Resources.resources
+C:\Projs\RSS\RSS\obj\Debug\RSS.csproj.GenerateResource.Cache
+C:\Projs\RSS\RSS\obj\Debug\RSS.exe
+C:\Projs\RSS\RSS\obj\Debug\RSS.pdb
